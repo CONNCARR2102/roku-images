@@ -1,5 +1,34 @@
-
 {
   "images": [
+    "images/clownfish_01.jpg",
+    "images/clownfish_02.jpg",
+    "images/clownfish_03.jpg",
+    "images/clownfish_04.jpg",
+    "images/clownfish_05.jpg",
+    "images/jellyfish_01.jpg",
+    "images/jellyfish_02.jpg",
+    "images/jellyfish_03.jpg",
+    "images/jellyfish_04.jpg",
+    "images/jellyfish_05.jpg",
+    "images/octopus_01.jpg",
+    "images/octopus_02.jpg",
+    "images/octopus_03.jpg",
+    "images/octopus_04.jpg",
+    "images/octopus_05.jpg",
+    "images/seahorse_01.jpg",
+    "images/seahorse_02.jpg",
+    "images/seahorse_03.jpg",
+    "images/seahorse_04.jpg",
+    "images/seahorse_05.jpg",
+    "images/reefshark_01.jpg",
+    "images/reefshark_02.jpg",
+    "images/reefshark_03.jpg",
+    "images/reefshark_04.jpg",
+    "images/reefshark_05.jpg",
+    "images/stingray_01.jpg",
+    "images/stingray_02.jpg",
+    "images/stingray_03.jpg",
+    "images/stingray_04.jpg",
+    "images/stingray_05.jpg"
   ]
 }
